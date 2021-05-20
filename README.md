@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @hamza-2009
-- 👀 I’m interested in Javascript.
+# Programmer Hamza Ali.. .
+<img src="https://raw.githubusercontent.com/ProgrammerGauCancel/changesrav/programmergaurav/master/images/hello.gif" width="30"> <br />Hello World, I am <strong>Hamza Ali</strong>.<br />
+I am a Full Stack Developer. <br/>
+I Love Coding and  programming
+<br/>
+<br/>
 
+![github stats](https://github-readme-stats.vercel.app/api?username=unaisshazan&show_icons=true&title_color=fff&theme=radical&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unaisshazan&layout=compact&theme=radical)
 
-<!---
-hamza-2009/hamza-2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# My Work and website
+-[Portfolio](https://hamza-ali-qureshi.web.app/)
+<br />
+
