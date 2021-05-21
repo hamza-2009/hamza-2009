@@ -1,6 +1,6 @@
 # Programmer Hamza Ali.. .
  <br />Hello World, I am <strong>Hamza Ali</strong>.<br />
-I am a Full Stack Developer. <br/>
+I am a Developer. <br/>
 I Love Coding and  programming
 <br/>
 <br/>
