@@ -1,7 +1,8 @@
 # Programmer Hamza Ali.. .
  <br />Hello World, I am <strong>Hamza Ali</strong>.<br />
 I am a Developer. <br/>
-I Love Coding and  programming
+I Love Coding and  programming.
+I have made many project which you can view here on my Github account.
 <br/>
 <br/>
 
